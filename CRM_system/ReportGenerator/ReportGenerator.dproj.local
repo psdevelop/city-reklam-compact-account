@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2011.05.18 05:31:44.515.pas,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\ReportGenerator\MainUnit.pas</Transaction>
+    <Transaction>2011.05.18 05:31:44.531.dfm,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\ReportGenerator\MainUnit.dfm</Transaction>
+    <Transaction>2011.05.18 05:31:53.812.dproj,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\ReportGenerator\ReportGenerator.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

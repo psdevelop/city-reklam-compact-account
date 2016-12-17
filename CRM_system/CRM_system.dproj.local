@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.05.06 13:03:02.966.pas,C:\Users\112\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\112\Documents\RAD Studio\Projects\MainUnit.pas</Transaction>
+    <Transaction>2011.05.06 13:03:02.966.dfm,C:\Users\112\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\112\Documents\RAD Studio\Projects\MainUnit.dfm</Transaction>
+    <Transaction>2011.05.06 13:03:38.488.dproj,C:\Users\112\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\112\Documents\RAD Studio\Projects\CRM_system.dproj</Transaction>
+    <Transaction>2011.05.07 07:10:36.015.pas,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.pas=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\DBConnectUnit.pas</Transaction>
+    <Transaction>2011.05.07 07:10:36.015.dfm,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.dfm=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\DBConnectUnit.dfm</Transaction>
+    <Transaction>2011.05.16 17:57:31.203.pas,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.pas=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Location3DUnit.pas</Transaction>
+    <Transaction>2011.05.16 17:57:31.203.dfm,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.dfm=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Location3DUnit.dfm</Transaction>
+    <Transaction>2011.06.05 02:15:20.109.pas,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.pas=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\InterfaceDMUnit.pas</Transaction>
+    <Transaction>2011.06.05 02:15:20.109.dfm,C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\Unit1.dfm=C:\Documents and Settings\Admin\Мои документы\Borland Studio Projects\CRM_system\InterfaceDMUnit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
